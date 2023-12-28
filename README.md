@@ -19,8 +19,9 @@ Welcome to the Sample Survey Form Webpage project! This repository contains a ba
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/NadiaUrooj/sample-survey-form.git
-   cd sample-survey-form
+   git clone
+   https://github.com/NadiaUrooj/Survey-Form-Webpage
+  
    ```
 
 ## Usage
